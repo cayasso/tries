@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/cayasso/tries.svg?branch=master)](https://travis-ci.org/cayasso/tries)
 [![NPM version](https://badge.fury.io/js/tries.svg)](http://badge.fury.io/js/tries)
 
-Simple and easy retry and exponential backoff goodness.
+Simple and easy retry and exponential backoff goodness for NodeJS.
 
 ## Usage
 
