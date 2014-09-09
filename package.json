@@ -1,0 +1,36 @@
+{
+  "name": "tries",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cayasso/tries"
+  },
+  "author": {
+    "name": "Jonathan Brumley",
+    "email": "cayasso@gmail.com"
+  },
+  "description": "Backoff, retry, again, reconnect, attempt, exponential, tries",
+  "keywords": [
+    "Backoff",
+    "retry",
+    "again",
+    "reconnect",
+    "attempt",
+    "exponential",
+    "tries"
+  ],
+  "devDependencies": {
+    "mocha": "*",
+    "netly": "^0.1.2",
+    "pre-commit": "*",
+    "should": "*"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cayasso/netly/issues"
+  },
+  "homepage": "https://github.com/cayasso/netly"
+}
